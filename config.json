@@ -2,12 +2,12 @@
 	"pools":[
 	{
 		"name": "Vipor",
-        	"url": "stratum+tcp://sg.vipor.net:5040",
+        	"url": "stratum+tcp://cn.vipor.net:5040",
 		"timeout": 150
 	},
 	{
 		"name": "ViporFailover1",
-        	"url": "stratum+tcp://sg.vipor.net:5040",
+        	"url": "stratum+tcp://ap.vipor.net:5040",
 		"timeout": 150
 	},
 	{
